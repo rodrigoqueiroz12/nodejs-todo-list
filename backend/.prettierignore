@@ -1,0 +1,9 @@
+node_modules
+.editorconfig
+.env
+.env.example
+.eslintignore
+.eslintrc.json
+.prettierrc.json
+package-lock.json
+package.json
